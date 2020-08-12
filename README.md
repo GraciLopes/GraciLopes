@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Eu Sou a Graciela Lopes
+Olá people! 
+
+Meu nome é Graciela sou analista comercial, formada em Recursos Humanos e estudande de Analise e Desenvolvimento de Sistemas. Participo de um projeto chamado {reprograma}:purple_heart:  como aluna, e sou amante de novas tecnologias.  
 
 <!--
 **GraciLopes/GraciLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
