@@ -5,7 +5,7 @@ Olá people!
 Meu nome é Graciela sou analista comercial, formada em Recursos Humanos e estudande de Analise e Desenvolvimento de Sistemas. Participo de um projeto chamado {reprograma}:purple_heart:  como aluna, e sou amante de novas tecnologias.  
 
 <p align="center">
-<img src="https://github.com/GraciLopes/GraciLopes/tree/master/imagens">
+<img src="https://github.com/GraciLopes/GraciLopes/blob/master/imagens/download.jpg">
 
 </p>
 
